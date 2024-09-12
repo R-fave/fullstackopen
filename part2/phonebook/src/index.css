@@ -1,0 +1,16 @@
+.noti {
+  background: lightgrey;
+  font-size: 20px;
+  border: 5px solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.normal {
+  color: green;
+}
+
+.error {
+  color: red;
+}
